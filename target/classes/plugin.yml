@@ -1,0 +1,14 @@
+name: MMCraft
+version: 1.0
+author: uziza
+api-version: 1.14
+main: user.uziza.MMCraft.MMCraft
+description: MMCraft
+
+commands:
+  statblock:
+    usage: /statblock
+    description: statblock
+  toggleadv:
+    usage: /toggleadv
+    description: Toggle Adv
